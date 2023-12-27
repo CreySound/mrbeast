@@ -1,0 +1,1 @@
+local mrbeast = "sus"
